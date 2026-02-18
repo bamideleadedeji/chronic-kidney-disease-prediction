@@ -50,7 +50,7 @@ This project demonstrates an end-to-end machine learning workflow:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ckd-streamlit-app.git
+git clone https://github.com/bamideleadedeji/ckd-streamlit-app.git
 
 2. Navigate into the folder:
 
@@ -78,5 +78,6 @@ Deployed on Streamlit Cloud using:
 
 ## Author
 
-Bamidele Adedeji  
+Bamidele Adedeji
+https://chronic-kidney-disease-prediction-u9uld3yc555n2yexcrnmkn.streamlit.app/
 Data Analyst | Machine Learning Enthusiast
